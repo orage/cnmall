@@ -6,11 +6,14 @@
 对720P和1080P分辨率做了简单的适配(原版只支持1280*768)<br>
 
 ## 截图
-![主页](https://github.com/orage/cnmall/blob/master/screenshot/home.png)  
+![主页]()  
+[![home]](https://github.com/orage/cnmall/blob/master/app/src/main/java/com/oranges/cnmall/fragment/HomeFragment.java)  
+[home]:https://github.com/orage/cnmall/blob/master/screenshot/home.png "主页"  
 
 ## 不足
 一些接口没有实现(譬如:我的收藏,下单时选择地址)<br>
 对其他分辨率没有适配(尤其是低分辨率的手机显示上会有影响)<br>
+标题栏当显示'back'按钮时标题没有居中的问题<br>
 项目"首页"搜索功能(模糊查询商品)没有实现<br>
 项目分类并非对应类目商品(这个是数据库写数据时没有对应)<br>
 项目一些String&&dimen常量没有写在对应的String.xml&&dimen.xml(写例子的时候图方便了)<br>
