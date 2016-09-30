@@ -5,6 +5,9 @@
 对一些素材进行重绘<br>
 对720P和1080P分辨率做了简单的适配(原版只支持1280*768)<br>
 
+## 截图
+![主页](https://github.com/orage/ImageCache/raw/master/screenshot/home.png)  
+
 ## 不足
 一些接口没有实现(譬如:我的收藏,下单时选择地址)<br>
 对其他分辨率没有适配(尤其是低分辨率的手机显示上会有影响)<br>
