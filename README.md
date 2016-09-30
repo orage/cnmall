@@ -6,7 +6,7 @@
 对720P和1080P分辨率做了简单的适配(原版只支持1280*768)<br>
 
 ## 截图
-![主页](https://github.com/orage/ImageCache/raw/master/screenshot/home.png)  
+![主页](https://github.com/orage/cnmall/blob/master/screenshot/home.png)  
 
 ## 不足
 一些接口没有实现(譬如:我的收藏,下单时选择地址)<br>
