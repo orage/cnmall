@@ -6,10 +6,10 @@
 对720P和1080P分辨率做了简单的适配(原版只支持1280*768)<br>
 
 ## 截图
-### png
+#### PNG
 [![home]](https://github.com/orage/cnmall/blob/master/app/src/main/java/com/oranges/cnmall/fragment/HomeFragment.java)  
 [home]:https://github.com/orage/cnmall/blob/master/screenshot/home.png "主页"  
-### gif
+#### GIF
 [![home]](https://github.com/orage/cnmall/blob/master/app/src/main/java/com/oranges/cnmall/fragment/HomeFragment.java)  
 [home]:https://github.com/orage/cnmall/blob/master/screenshot/home.gif "主页"  
 
@@ -30,3 +30,6 @@
 2.`商品详情`点击购买,订单图片的width&&height小于"购物车"结算的订单图片<br>
 3.`新建收货地址`所使用的级联菜单显示后面部分的区/县FC(应该是控件本身的问题,ArrayList遍历时改变了list.size())<br>
 4.暂时只找到这些,欢迎补充(可能因为这个项目只作用于展示的用途,细节上没有去仔细雕琢,(｀・ω・´) )
+
+## 附件
+项目所使用的[API](http://pan.baidu.com/s/1o8m3KRC)存放在度盘,提取码: [uqe5]() 
