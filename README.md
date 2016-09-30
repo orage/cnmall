@@ -14,20 +14,20 @@
 [home-gif]:https://github.com/orage/cnmall/blob/master/screenshot/home.gif "主页"  
 
 ## 目录结构
-> app 
->> activity  除MainActivity之外的所有Activity
->> adapter  所有Adapter
->> app  Application
->> bean  entity
->> consts  项目中使用的静态常量
->> fragment  所有Fragment
->> http  okHttp的封装类和回调
->> msg  登录请求以及订单等安全请求 && 相应的状态码和加密的封装
->> provider  购物车的provider
->> utils 工具类
->> widget 自定义控件
-> bdpaysdk 百度钱包的sdk
-> paysdk 支付sdk
+*app 
+  *activity  除MainActivity之外的所有Activity
+  *adapter  所有Adapter
+  *app  Application
+  *bean  entity
+  *consts  项目中使用的静态常量
+  *fragment  所有Fragment
+  *http  okHttp的封装类和回调
+  *msg  登录请求以及订单等安全请求 && 相应的状态码和加密的封装
+  *provider  购物车的provider
+  *utils 工具类
+  *widget 自定义控件
+*bdpaysdk 百度钱包的sdk
+*paysdk 支付sdk
 
 ## 一些问题
 一些接口没有实现(譬如：我的收藏，下单时选择地址)<br>
