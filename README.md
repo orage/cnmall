@@ -6,9 +6,12 @@
 对720P和1080P分辨率做了简单的适配(原版只支持1280*768)<br>
 
 ## 截图
-![主页]()  
+### png
 [![home]](https://github.com/orage/cnmall/blob/master/app/src/main/java/com/oranges/cnmall/fragment/HomeFragment.java)  
 [home]:https://github.com/orage/cnmall/blob/master/screenshot/home.png "主页"  
+### gif
+[![home]](https://github.com/orage/cnmall/blob/master/app/src/main/java/com/oranges/cnmall/fragment/HomeFragment.java)  
+[home]:https://github.com/orage/cnmall/blob/master/screenshot/home.gif "主页"  
 
 ## 不足
 一些接口没有实现(譬如:我的收藏,下单时选择地址)<br>
