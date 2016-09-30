@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:background="@drawable/selector_list_item" >
+
+    <TextView
+        android:id="@+id/tv_category"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/category_text_size"
+        android:textColor="@color/darkgrey" />
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<resources>
+
+
+    <dimen name="ware_grid_img_width">150dp</dimen>
+    <dimen name="ware_grid_img_height">150dp</dimen>
+
+    <!-- home -->
+    <dimen name="home_image_width_half">110dp</dimen>
+    <dimen name="home_image_height_half">100dp</dimen>
+    <dimen name="home_image_width">220dp</dimen>
+    <dimen name="home_image_height">201dp</dimen>
+    <!-- hot -->
+    <dimen name="ware_img_width">140dp</dimen>
+    <dimen name="hot_title_size">18sp</dimen>
+    <!-- category -->
+    <dimen name="category_layout_width">100dp</dimen>
+    <dimen name="category_text_size">14sp</dimen>
+    <dimen name="category_slider_height">160dp</dimen>
+    <dimen name="category_ware_grid_img_width">120dp</dimen>
+    <dimen name="category_ware_grid_img_height">120dp</dimen>
+    <!-- cart -->
+    <dimen name="cart_total_text_size">16sp</dimen>
+    <dimen name="cart_ware_img_width">130dp</dimen>
+    <dimen name="cart_ware_img_height">130dp</dimen>
+    <dimen name="cart_text_title_size">15sp</dimen>
+    <dimen name="cart_text_price_size">16sp</dimen>
+    <dimen name="cart_ccv_height">45dp</dimen>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CN商城</string>
+
+    <!-- Tab start -->
+    <string name="home">主页</string>
+    <string name="hot">热卖</string>
+    <string name="catagory">分类</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+    <!-- Tab end -->
+    <string name="share">分享</string>
+
+    <string name="my_orders">我的订单</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="my_info">个人资料</string>
+    <string name="my_addresses">收货地址</string>
+    <string name="my_msg">我的消息</string>
+    <string name="logout">退出登录</string>
+    <string name="to_login">点击登录</string>
+    <string name="token_error">登录失效，请重新登录</string>
+    <string name="title_activity_new_order">NewOrderActivity</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="create_order">填写订单</string>
+    <string name="pay_result">支付结果</string>
+    <string name="add_addresses">新建收件地址</string>
+
+
+    <string name="send_mobile_detail">发送验证码</string>
+    <string name="resend_identify_code">重新获取验证码</string>
+    <string name="write_identify_code">请输入验证码</string>
+</resources>
